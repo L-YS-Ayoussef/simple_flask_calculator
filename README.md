@@ -20,4 +20,4 @@ This is a simple web application built using Flask that allows users to perform 
 ![Result Page](https://github.com/L-YS-Ayoussef/simple_flask_calculator/blob/master/Screenshot%202024-03-08%20141552.png)
 
 ## Demonstration 
-[Demonstration Text](https://drive.google.com/drive/folders/1hID9ZJ-jtAg8FIiyLkRBIEoMKIT7pN5T?lfhs=2)
+[Demonstration Video](https://drive.google.com/drive/folders/1hID9ZJ-jtAg8FIiyLkRBIEoMKIT7pN5T?lfhs=2)
